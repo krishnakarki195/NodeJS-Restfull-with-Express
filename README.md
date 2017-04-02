@@ -1,1 +1,2 @@
 # NodeJS-Restfull-with-Express
+Node.js is a simple and powerful tool for backend development. When combined with express, you can create lightweight, fast, scalable APIs quickly and simply. In this Project, I used a lightweight Express server serving truly RESTful services using Node.js, Mongoose, and MongoDB. Implemented all of the RESTful verbs to get, add, and update data from the service. implemented unit and end to end integration tests for the services.
